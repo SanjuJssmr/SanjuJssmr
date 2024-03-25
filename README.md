@@ -1,3 +1,14 @@
+<style>
+  p{
+    display:"flex",
+    width:"100%"
+    align-items:"center",
+    justify-content:"center"
+    flex-wrap:"wrap",
+    gap:"20px"
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Raveendhar S</h1>
 <h3 align="center">Junior web developer from india</h3>
 
